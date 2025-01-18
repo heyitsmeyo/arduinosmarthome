@@ -17,3 +17,8 @@ It uses RFID sensor , a buzzer , a servo motor and an arduino mega
 
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/088c849c-e794-47c6-a455-57d43ca5a42c" />
+
+
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
